@@ -1,6 +1,6 @@
 ## Hello, I'm [Chan Myae!](https://www.linkedin.com/in/chan-m) 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sawmu&label=Views&color=blue&style=plastic" alt="sawmu" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hchanmyae&label=Views&color=blue&style=plastic" alt="hchanmyae" /> </p>
 
 # 💫About Me :
 - 🔭 I’m currently working on [React & Laravel Project](https://www.linkedin.com/in/chan-m).
